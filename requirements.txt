@@ -1,0 +1,49 @@
+# 🧠 Core FiftyOne
+fiftyone
+
+# 🔍 Visual AI / Deep Learning
+torch
+torchvision
+ultralytics
+timm
+pycocotools
+
+# Transformers & Embeddings
+transformers
+tokenizers
+datasets
+huggingface-hub
+accelerate
+safetensors
+
+# Medical Imaging
+pydicom
+nibabel
+pynrrd
+tifffile
+
+# Visualization & Analysis
+matplotlib
+plotly
+seaborn
+pandas
+tqdm
+
+# Embeddings & Utilities
+umap-learn
+ftfy
+regex
+jsonlines
+
+# 💻 Jupyter & Interactive Environment
+notebook
+ipykernel
+ipython
+jupyter_client
+jupyter_core
+matplotlib-inline
+traitlets
+nest-asyncio
+
+# Segment Anything (MedSAM2)
+-e git+https://github.com/facebookresearch/sam2.git@2b90b9f5ceec907a1c18123530e92e794ad901a4#egg=SAM_2
